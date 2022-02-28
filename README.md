@@ -1,0 +1,1 @@
+Repository created for the DevOps subject at the Faculty of Computer Science and Engineering in Skopje.
